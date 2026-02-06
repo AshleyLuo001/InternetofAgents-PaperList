@@ -1,29 +1,46 @@
-# 📚InternetofAgents-PaperList
+# 📚 Internet of Agents — Paper Collection
 
-A curated list of papers and systems organized by the taxonomy in  
-**["Connecting Minds: A Comprehensive Survey of the Internet of Agents"](https://arxiv.org/abs/XXXX.XXXXX)**.
+Organized by the taxonomy in:  
+**["Connecting Minds: A Comprehensive Survey of the Internet of Agents"](https://arxiv.org/abs/XXXX.XXXXX)**
 
 ---
 
-## 🌐Repository Structure
+## 🌐 Browse by Category
 
-Browse papers by category:
+### 🧠 Capability (Agent's Core Abilities)
+- [Perception](capability/perception/) – Multimodal understanding, active filtering  
+- [Planning](capability/planning/) – Reasoning, task decomposition, search  
+- [Memory](capability/memory/) – Context, episodic recall, skill libraries  
+- [Action](capability/action/) – Tool use, API calls, physical actuation  
 
-- 🧠 [capabilty](capability)
-  - (Perception, Planning, Memory, Action)
-- 🔗 [connectivity](connectivity)
-  - (Communication, Interfaces, Discovery)
-- 🤝 [orchestration](orchestration)
-  - (Topologies, Consensus, Teaming)
-- 🛡️ [governance](governance)
-  - (Identity, Security, Economy)
-- 📊 [evaluation](evaluation)
+### 🔗 Connectivity (How Agents Connect)
+- [Communication](connectivity/communication/) – Message passing, protocols  
+- [Interfaces](connectivity/interfaces/) – MCP, ANP, tool standards  
+- [Discovery](connectivity/discovery/) – Capability matching, routing  
 
-> 💡 **Click any category name** (e.g., `Capability`) to view all papers in that folder!
+### 🤝 Orchestration (Multi-Agent Coordination)
+- **Topologies**
+  - [Chain](orchestration/topologies/chain/) – Linear workflows  
+  - [Star](orchestration/topologies/star/) – Centralized management  
+  - [Mesh](orchestration/topologies/mesh/) – Peer-to-peer collaboration  
+- [Consensus](orchestration/consensus/) – Debate, voting, agreement  
+- [Teaming](orchestration/teaming/) – Dynamic role assignment  
+
+### 🛡️ Governance (Safety & Trust)
+- [Identity](governance/identity/) – DID, reputation systems  
+- [Security](governance/security/) – **Sandboxing**, **Guardrails**, privacy  
+- [Economy](governance/economy/) – Pricing, value sharing, incentives  
+
+### 📊 Evaluation (Benchmarks & Metrics)
+- [Benchmarks](evaluation/benchmarks/) – AgentBench, CAMEL, Sotopia  
+- [Metrics](evaluation/metrics/) – Success rate, cost, fairness  
+- [Environments](evaluation/environments/) – Simulation sandboxes  
+
+---
 
 ## 📌 How to Use
-- Each subfolder contains a `README.md` listing relevant papers/systems
-- Papers may appear in multiple categories if they span topics
-- Format: `[Paper Name](link) - Brief description`
+- Each link above opens a folder containing a `README.md` with paper lists  
+- Papers may appear in multiple categories if they span topics  
+- Format: `[Paper Name](link) – Brief description`
 
-> 💡 Found a missing paper? Open an issue or PR!
+> 💡 **Tip**: Click any folder name to explore papers in that subcategory!
