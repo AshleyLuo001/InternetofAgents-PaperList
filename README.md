@@ -1,20 +1,25 @@
 # 📚InternetofAgents-PaperList
-🛜Internet of Agent paper list
+
+A curated list of papers and systems organized by the taxonomy in  
+**["Connecting Minds: A Comprehensive Survey of the Internet of Agents"](https://arxiv.org/abs/XXXX.XXXXX)**.
+
+---
 
 ## 🌐Repository Structure
 
-This repository categorizes IoA-related works following the paper's framework: 
+Browse papers by category:
 
-internet-of-agents-survey
-- 🧠 capability
+- 🧠 [capabilty](capability)
   - (Perception, Planning, Memory, Action)
-- 🔗 connectivity
+- 🔗 [connectivity](connectivity)
   - (Communication, Interfaces, Discovery)
-- 🤝 orchestration
+- 🤝 [orchestration](orchestration)
   - (Topologies, Consensus, Teaming)
-- 🛡️ governance
+- 🛡️ [governance](governance)
   - (Identity, Security, Economy)
-- 📊 evaluation
+- 📊 [evaluation](evaluation)
+
+> 💡 **Click any category name** (e.g., `Capability`) to view all papers in that folder!
 
 ## 📌 How to Use
 - Each subfolder contains a `README.md` listing relevant papers/systems
