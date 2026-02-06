@@ -1,7 +1,6 @@
-# 🧭 Planning
+# ✋ Action
 
-How agents reason about goals, decompose tasks, and decide on actions.
-
+How agents execute decisions through tools, APIs, or physical actuators.
 ## 📚 Key Papers & Systems
 
 - [Paper Name](https://arxiv.org/abs/xxxx.xxxxx) – One-sentence summary  
