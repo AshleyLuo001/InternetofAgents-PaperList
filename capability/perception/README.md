@@ -2,7 +2,7 @@
 
 How agents understand and interpret their environment through sensors or data.
 
-- [Visual instructiontuning](https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html) 
+- [Visual instruction tuning](https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html) 
 - [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614)
 - [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543)
 - [A Survey on (M)LLM-Based GUI Agents](https://arxiv.org/abs/2504.13865)
