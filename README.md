@@ -1,6 +1,6 @@
 # 📚 Internet of Agents — Paper Collection
 
-Organized by the taxonomy in:  
+📌Organized by the taxonomy in:  
 **["Connecting Minds: A Comprehensive Survey of the Internet of Agents"](https://arxiv.org/abs/XXXX.XXXXX)**
 
 ---
@@ -37,10 +37,5 @@ Organized by the taxonomy in:
 - [Environments](evaluation/environments/) – Simulation sandboxes  
 
 ---
-
-## 📌 How to Use
-- Each link above opens a folder containing a `README.md` with paper lists  
-- Papers may appear in multiple categories if they span topics  
-- Format: `[Paper Name](link) – Brief description`
 
 > 💡 **Tip**: Click any folder name to explore papers in that subcategory!
