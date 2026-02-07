@@ -32,7 +32,7 @@
 
 ### 🛡️ Governance (Safety & Trust)
 - [Identity](governance/identity/) – DID, reputation systems  
-- [Security](governance/security/) – **Sandboxing**, **Guardrails**, privacy  
+- [Security](governance/security/) – Sandboxing, Guardrails, privacy  
 - [Economy](governance/economy/) – Pricing, value sharing, incentives  
 
 ### 📊 Evaluation (Benchmarks & Metrics)
