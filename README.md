@@ -1,7 +1,7 @@
 # 📚 Internet of Agents — Paper Collection
 
 📌Organized by the taxonomy in:  
-**Connecting Minds: A Comprehensive Survey of the Internet of Agents**
+**Connecting Minds: A Comprehensive Survey of the Internet of Agents** Under Review in ACL2026
 
 ---
 
