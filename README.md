@@ -5,7 +5,9 @@
 [![ACL2026](https://img.shields.io/badge/Review-ACL2026%20(Under%20Review)-orange)](https://aclanthology.org/venues/acl/)
 
 ![Internet of Agents Evolution](https://github.com/user-attachments/assets/a84ed594-ec0b-4a06-9fde-a6eb7936168c)
-*Figure 1: This 2023–2025 timeline illustrates the transition from the saturated "red ocean" of single/multi-agent systems to the underexplored "blue ocean" of the IoA. Early IoA initiatives, nascent protocols(MCP,A2A), and the Agentic AI Foundation established by the Linux Foundation collectively cement IoA as a high-potential frontier for collaborative agent ecosystems.*
+<div align="center">
+<em>This 2023–2025 timeline illustrates the transition from the saturated "red ocean" of single/multi-agent systems to the underexplored "blue ocean" of the IoA. Early IoA initiatives, nascent protocols(MCP,A2A), and the Agentic AI Foundation established by the Linux Foundation collectively cement IoA as a high-potential frontier for collaborative agent ecosystems.</em>
+</div>
 
 ---
 
@@ -43,6 +45,10 @@
 ---
 
 ![Internet of Agents Evolution](https://github.com/user-attachments/assets/60c864f9-d9cb-4a28-8d21-372bc2fb913e)
-*Figure 2:The evolutionary trajectory of the Internet.*
+
+<div align="center">
+<em>The evolutionary trajectory of the Internet.</em>
+</div>
+
 
 > 💡 **Tip**: Click any folder name to explore papers in that subcategory!
