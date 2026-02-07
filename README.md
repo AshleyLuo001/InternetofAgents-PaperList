@@ -1,7 +1,8 @@
 # 📚 Internet of Agents — Paper Collection
 
 📌Organized by the taxonomy in:  
-**Connecting Minds: A Comprehensive Survey of the Internet of Agents** Under Review in ACL2026
+**Connecting Minds: A Comprehensive Survey of the Internet of Agents** 
+[![ACL2026](https://img.shields.io/badge/Review-ACL2026%20(Under%20Review)-orange)](https://aclanthology.org/venues/acl/)
 
 ---
 
